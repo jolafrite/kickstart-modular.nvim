@@ -11,3 +11,4 @@ return {
     { '<leader>dt', '<cmd>TodoTrouble<CR>', desc = 'Open todos in trouble' },
   },
 }
+-- vim: ts=2 sts=2 sw=2 et

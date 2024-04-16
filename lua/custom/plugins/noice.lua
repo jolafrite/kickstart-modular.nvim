@@ -44,3 +44,4 @@ return {
     { "<c-b>", function() if not require("noice.lsp").scroll(-4) then return "<c-b>" end end, silent = true, expr = true, desc = "Scroll Backward", mode = {"i", "n", "s"}},
   },
 }
+-- vim: ts=2 sts=2 sw=2 et

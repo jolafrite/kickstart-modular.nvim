@@ -12,3 +12,4 @@ return {
     { "<c-s>", mode = { "c" }, function() require("flash").toggle() end, desc = "Toggle Flash Search" },
   },
 }
+-- vim: ts=2 sts=2 sw=2 et

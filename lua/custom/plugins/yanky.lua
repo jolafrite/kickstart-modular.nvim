@@ -27,3 +27,4 @@ return {
     { '=P', '<Plug>(YankyPutBeforeFilter)', desc = 'Put Before Applying a Filter' },
   },
 }
+-- vim: ts=2 sts=2 sw=2 et

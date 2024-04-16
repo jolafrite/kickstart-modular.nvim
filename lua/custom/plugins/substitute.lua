@@ -17,3 +17,4 @@ return {
     keymap.set('x', 's', substitute.visual, { desc = 'Substitute in visual mode' })
   end,
 }
+-- vim: ts=2 sts=2 sw=2 et
